@@ -5,6 +5,8 @@
 #include <stdio.h>
 #include <math.h>
 
+//check it
+
 //constants
 #define SIZE 8 //maximum number of binary digits
 
